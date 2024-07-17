@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "src",
+		"path": "next-app/src"
+	},
+	{
+		"name": "next-app",
+		"path": "next-app"
+	},
+	{
+		"name": "React-Redux-Toolkit-Typescript",
+		"path": "."
+	}
+],
+  "settings": {}
+}
